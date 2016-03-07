@@ -1,0 +1,8 @@
+
+    <resources>
+        <string name="pisa">Torre inclinada de Pisa</string>
+        <string name="ben">Gran Ben </string>
+        <string name="liberty">Estatua de la Libertad</string>
+        <string name="tower">Torre Eiffel </string>
+        <string name="app_name">Álbum de Recortes</string>
+    </resources>

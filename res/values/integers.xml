@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="GridRow">2</integer>
+    <integer name="GridCol">2</integer>
+    <integer name="RowSpan">1</integer>
+    <integer name="ColSpan">1</integer>
+    <integer name="GridCol2">1</integer>
+</resources>
